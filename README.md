@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
 TicketStore on EVM
 </h1>
 
